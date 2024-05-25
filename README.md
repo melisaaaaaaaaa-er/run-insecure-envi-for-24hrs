@@ -4,7 +4,6 @@
 
 - Let insecure honeynet run for 24 hours to collect attack attempts from the Internet and generate logs.
 - Plot the geographic data from the logs onto a world map to see where attacks have been coming from.
-    - Through Sentinel Workbooks. 
 
 #
 <h3>Worlds Maps</h3>
